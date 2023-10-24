@@ -1,0 +1,1 @@
+poniters,arrays,string
